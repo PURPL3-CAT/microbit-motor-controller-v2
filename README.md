@@ -1,6 +1,14 @@
 
 > Open this page at [https://purpl3-cat.github.io/microbit-motor-controller-v2/](https://purpl3-cat.github.io/microbit-motor-controller-v2/)
 
+## How to use the circuit
+
+The power from P0 isn't enough to actually power the motor I used. A transistor is required to have enough power to make it work (see the PDF).
+
+## Why I Made This
+
+My engineering teacher asked me to control a Vex motor with the micro:bits is the classroom. I obliged.
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
@@ -17,10 +25,6 @@ To edit this repository in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/purpl3-cat/microbit-motor-controller-v2** and click import
-
-##Why I Made This
-
-My engineering teacher asked me to control a vex motor with the micro:bits is the classroom. I obliged.
 
 ## Blocks preview
 
