@@ -18,6 +18,10 @@ To edit this repository in MakeCode.
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/purpl3-cat/microbit-motor-controller-v2** and click import
 
+##Why I Made This
+
+My engineering teacher asked me to control a vex motor with the micro:bits is the classroom. I obliged.
+
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
