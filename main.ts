@@ -1,5 +1,5 @@
-let startingPower = 0//starting power for of the motor (0-1024)
-let pinStep = 8//how fast the buttons change the power
+let startingPower = 0 //Starting power for of the motor (0-1024)
+let pinStep = 8 //By what step the buttons change the power (how fast  it changes)
 
 
 let power = startingPower
